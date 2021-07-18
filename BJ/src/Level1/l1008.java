@@ -14,6 +14,8 @@ public class l1008 {
 				
 				System.out.print(A/B);
 
+				//java 
+
 	}
 
 }
